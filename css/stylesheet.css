@@ -17,6 +17,8 @@
     font-size: x-large;
     text-align: center;
     display: none;
+    position: relative;
+    bottom: 48px;
 }
 
 .fullheight {
